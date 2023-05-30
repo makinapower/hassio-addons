@@ -1,4 +1,4 @@
-# tydom2mqtt add-on
+# tydom2mqtt forked add-on
 
 ![](https://github.com/fmartinou/tydom2mqtt/raw/master/docs/tydom2mqtt_logo_250.png)
 
